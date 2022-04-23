@@ -14,4 +14,4 @@ Instead of having to write out strings or arrays of every possible character wit
 
 ## Screenshot
 
-![A screenshot of the password generator with a long random password displayed](./assets/screenshot.png)
+![A screenshot of the password generator with a long random password displayed]
