@@ -1,4 +1,4 @@
-# 03-password-gen
+# password-gen
 
 ## Description
 
